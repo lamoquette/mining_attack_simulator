@@ -1,5 +1,7 @@
 # mining_simulator
 
+https://mining-attack-simulator.org/
+
 ## Project setup
 ```
 yarn install
